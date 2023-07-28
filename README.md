@@ -1,7 +1,5 @@
 # TalkToMeIn
 
-![bot_recording](link_to_your_recording_goes_here)
-
 ## Description
 
 Bot designed to facilitate language learning through Telegram. Using the power of OpenAI's GPT-4 and ElevenLabs, you can chat in your target language or practice your listening skills! Additionally, this bot allows you to save new vocabulary directly to a Notion database.
